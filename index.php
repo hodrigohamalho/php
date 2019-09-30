@@ -1,4 +1,4 @@
 <?php
-echo "<h1>Open Banking! </h1>";
+echo "<h1>Argentina 1.0 </h1>";
 echo $_SERVER['SERVER_ADDR'];
 ?>
